@@ -13,7 +13,7 @@ Designed using **KiCad**, this is a 2-layer PCB layout for an AC to DC converter
 
 
 ### 🛠️ Software Used
-- KiCad 6.x / 7.x
+- KiCad 8
 ![image](https://github.com/user-attachments/assets/1ed31b8a-4364-4258-adeb-fd56d4ad738d)
 
 ### 🖼️ How to Preview
