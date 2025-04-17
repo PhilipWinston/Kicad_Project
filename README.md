@@ -9,7 +9,8 @@ Designed using **KiCad**, this is a 2-layer PCB layout for an AC to DC converter
 - **Solder Paste**: `AC to DC-F_Paste.gbr`, `AC to DC-B_Paste.gbr`
 - **Board Outline**: `AC to DC-Edge_Cuts.gbr`
 - **Job File**: `AC to DC-job.gbrjob`
-![image](https://github.com/user-attachments/assets/6156a758-0f5c-4d23-861a-3eaee7034a61)
+![image](https://github.com/user-attachments/assets/e48c3700-73ae-4394-8f83-228761081cae)
+
 
 ### 🛠️ Software Used
 - KiCad 6.x / 7.x
